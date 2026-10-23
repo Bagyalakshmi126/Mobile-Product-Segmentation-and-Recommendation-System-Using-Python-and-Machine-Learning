@@ -81,4 +81,11 @@ Inventory Control: Flag phones in Cluster 3 automatically to review supplier qua
 
 **🏷️ Technical Tags**
 
-Python Streamlit Scikit-Learn Machine Learning K-Means Clustering Elbow Method Nearest Neighbors Plotly Pandas Data Science
+Python 
+Streamlit Scikit-Learn Machine Learning 
+K-Means Clustering 
+Elbow Method 
+Nearest Neighbors 
+Plotly 
+Pandas 
+Data Science
